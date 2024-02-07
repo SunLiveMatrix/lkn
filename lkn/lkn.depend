@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1707183799 source:/home/admin/lcp.net/lkn/lkn/main.cpp
+	<cstdlib>
+	<stdlib.h>
+
+1707230966 source:/home/admin/lcp.net/lkn/lkn/purpose/click.cpp
+	"stdio.h"
+	"stdlib.h"
+	"stdarg.h"
+	"stdint.h"
+	"string"
+
+1707317225 source:/home/admin/lcp.net/lkn/lkn/purpose/checklink/link.cpp
+	"stdio.h"
+	"stdlib.h"
+	"stdint.h"
+	"stdarg.h"
+	"assert.h"
+	"string"
+
+1707321764 source:/home/admin/lcp.net/lkn/lkn/purpose/ambient/socialist.cpp
+	"stdio.h"
+	"stdlib.h"
+	"stdint.h"
+	"stdarg.h"
+	"string"
+	"cctype"
+
+1707325572 source:/home/admin/lcp.net/lkn/lkn/purpose/port/input.cpp
+	"stdio.h"
+	"stdlib.h"
+	"stdint.h"
+	"stdarg.h"
+	"string"
+
